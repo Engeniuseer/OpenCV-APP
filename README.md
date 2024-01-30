@@ -14,6 +14,14 @@ When executed it shows the original image and by pressing numbers 1 to 5 you can
 ### Results
 <table>
   <tr>
+    <td><p "Original"></td>
+    <td><p "Gaussian Blur"></td>
+    <td><p "Cartoon"></td>
+    <td><p "Edge Detection"></td>
+    <td><p "Face Detection"></td>
+    
+  </tr>
+  <tr>
     <td><img src="results/original.png" width="200"></td>
     <td><img src="results/blur.png" width="200"></td>
     <td><img src="results/cartoon.png" width="200"></td>
