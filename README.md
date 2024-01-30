@@ -13,7 +13,7 @@ When executed it shows the original image and by pressing numbers 1 to 5 you can
 
 ### Results
 
-
+![Original Image](results/original.png)
 
 
 ### References
