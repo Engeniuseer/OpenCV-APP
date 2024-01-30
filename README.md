@@ -5,11 +5,11 @@
 This project was created to learn how to install and use OpenCV in C++. 
 
 When executed it shows the original image and by pressing numbers 1 to 5 you can change the type of image processing technique applied which are:
-1: Original image
-2: Gaussian blur
-3: Cartoonization 
-4: Edge detection
-5: Face Detection
+* 1: Original image
+* 2: Gaussian blur
+* 3: Cartoonization 
+* 4: Edge detection
+* 5: Face Detection
 
 ### Results
 
