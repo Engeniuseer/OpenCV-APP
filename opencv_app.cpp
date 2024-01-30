@@ -33,10 +33,8 @@ cv::Mat face_detection(cv::Mat frame,cv::CascadeClassifier faceCascade){
     cv::cvtColor(frame, gray, cv::COLOR_RGB2GRAY);
     // Detect faces
     std::vector<cv::Rect> faces;
-    //faceCascade.detectMultiScale(gray,faces,1.1,10,cv::Size(100, 100));
     std::vector<double> weights;
     std::vector<int> levels;
-    //faceCascade.detectMultiScale(gray, faces, levels, weights, 1.1, 3, 0, cv::Size(), cv::Size(), true);
     faceCascade.detectMultiScale(gray, faces, 1.1, 10, 0);
     // Draw rectangles around faces
     for (const auto& face : faces) {
