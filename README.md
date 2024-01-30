@@ -12,8 +12,17 @@ When executed it shows the original image and by pressing numbers 1 to 5 you can
 * 5: Face Detection
 
 ### Results
+<table>
+  <tr>
+    <td><img src="results/original.png" width="200"></td>
+    <td><img src="results/blur.png" width="200"></td>
+    <td><img src="results/cartoon.png" width="200"></td>
+    <td><img src="results/edge.png" width="200"></td>
+    <td><img src="results/face.png" width="200"></td>
+    
+  </tr>
+</table>
 
-<img src="results/original.png" width="200">
 
 
 ### References
