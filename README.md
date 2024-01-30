@@ -24,3 +24,5 @@ The lena.jpg is one of the sample images from OpenCV.
 
 I downloaded the haarcascade_frontalface_default.xml from https://github.com/opencv/opencv/blob/4.x/data/haarcascades/haarcascade_frontalface_default.xml 
 
+For the cartoonization algorithm I adapted this python code: https://www.instagram.com/p/CErJrqZAD7Y/?igsh=MXJzdTh3YWQwZXcyZQ==
+
